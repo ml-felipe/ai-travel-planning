@@ -41,4 +41,4 @@ All fourteen instances parsed successfully with Unified Planning 1.3.0. To repea
 
 The parser is only a test tool; neither exercise needs it at runtime. PDDL planning and the CLIPS expert system are separate coursework approaches, not an integrated application. Prices, traveler profiles and destination attributes are demonstration data, not current travel advice.
 
-No recovered algorithm was changed during migration. Duplicate versions, backups, reports and existing output traces are excluded. [ATTRIBUTION.md](ATTRIBUTION.md) records the publication limitations. The existing `BusquedaLocal-IA` repository is a separate project and is not duplicated here.
+No recovered algorithm was changed during migration. Duplicate versions, backups, reports and existing output traces are excluded. [ATTRIBUTION.md](ATTRIBUTION.md) records source credits and provenance. The existing `BusquedaLocal-IA` repository is a separate project and is not duplicated here.
